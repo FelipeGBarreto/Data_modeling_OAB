@@ -6,3 +6,8 @@ Esse repositório ajuda com um simples Crtl+C e Crtl+V listar todos os aprovados
 
 Código desenvolvido em Python que tem como output a lista de pessoas aprovadas no resultado, seja qual for a fase em análise.
 
+Output:
+- Nome do aprovado
+- Matrícula
+- UF
+- Cidade
